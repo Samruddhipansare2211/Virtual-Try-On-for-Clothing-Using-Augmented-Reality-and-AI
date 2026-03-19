@@ -145,7 +145,7 @@ http://127.0.0.1:5000
 
 | Upload Try-On                                                | Camera Try-On                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Upload Result](Project%20Screenshot/Screenshot_upload.png) | ![Camera Result](Project%20Screenshot/Screenshot_camera.png) |
+| ![Upload Result](Project%20Screenshot/Screenshot_upload.png) | ![Camera Result](Project%20Screenshot/screenshot_camera.png) |
 
 🎥 **Demo Video:** [demo_virtual_try_on.mp4](demo_virtual_try_on.mp4)
 
